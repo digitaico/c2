@@ -110,7 +110,7 @@ estado.forEach((el, index) => {
 		<td class="">`;
 	if(el.status == 1) {
 		data += `
-		<img src="/shell/img/ico/phone-call-green.svg" class="ico" alt="" id="call" data-user="${el.usuario}" /></td>
+		<img src="shell/img/ico/phone-call-green.svg" class="ico" alt="" id="call" data-user="${el.usuario}" /></td>
 		`;
 	} else if (el.status == 0) {
 		data += `
