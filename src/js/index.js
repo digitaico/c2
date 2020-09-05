@@ -114,7 +114,7 @@ estado.forEach((el, index) => {
 		`;
 	} else if (el.status == 0) {
 		data += `
-		<img src="/shell/img/ico/phone-call-gray.svg" class="ico" alt="" /></td>
+		<img src="shell/img/ico/phone-call-gray.svg" class="ico" alt="" /></td>
 		`;
 	}
 	data += `
