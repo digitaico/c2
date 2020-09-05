@@ -69,7 +69,7 @@ let estado = [
 		"status": 0,
 		"twits":52,
 		"likes":17,
-		"foto": "/shell/img/pic/people1.png"
+		"foto": "shell/img/pic/people1.png"
 	},
 	{
 		"id": "155541",
@@ -77,7 +77,7 @@ let estado = [
 		"status": 1,
 		"twits":154,
 		"likes":39,
-		"foto": "/shell/img/pic/people2.png"
+		"foto": "shell/img/pic/people2.png"
 	},
 	{
 		"id": "155542",
@@ -85,7 +85,7 @@ let estado = [
 		"status": 1,
 		"twits":890,
 		"likes":197,
-		"foto": "/shell/img/pic/people3.png"
+		"foto": "shell/img/pic/people3.png"
 	},
 	{
 		"id": "155543",
@@ -93,7 +93,7 @@ let estado = [
 		"status": 1,
 		"twits":75,
 		"likes":215,
-		"foto": "/shell/img/pic/people4.png"
+		"foto": "shell/img/pic/people4.png"
 	},
 ];
 
